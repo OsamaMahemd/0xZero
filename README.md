@@ -1,6 +1,8 @@
 # <div align="center">
 
-<img src="https://raw.githubusercontent.com/OsamaMahemd/0xZero-Workspace/docs/images/README_Banner.png" width="100%">
+<p align="center">
+  <img src="brand/README_Banner.png" width="100%">
+</p>
 
 # 0xZero
 
