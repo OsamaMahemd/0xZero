@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="./docs/images/banner.png" alt="0xZero Banner" width="100%">
+<img src="./docs/images/README_Banner.png" alt="0xZero Banner" width="100%">
 
 # 0xZero
 
