@@ -1,8 +1,6 @@
-# <div align="center">
+<div align="center">
 
-<p align="center">
-  <img src="brand/README_Banner.png" width="100%">
-</p>
+<img src="brand/README_Banner.png" width="100%">
 
 # 0xZero
 
